@@ -12,10 +12,6 @@ Todo comenso cuando el tenia 16 años aproximadamente
 
 Master 1
 
-<<<<<<< HEAD
-Master 2
-=======
 Experimento 1
 
 Experimento 2
->>>>>>> dcccb8d (Experimento 2)
